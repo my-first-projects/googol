@@ -1,0 +1,5 @@
+[urls]
+title, url, links, images, domain
+
+[found]
+url, source, domain
